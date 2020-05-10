@@ -1,0 +1,6 @@
+This is a hobby project
+
+Authentication done using json web tokens : based on the following blog post
+
+https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens
+
